@@ -1,0 +1,83 @@
+#Cmp ( order = Reference )
+| BR1        MBS-1       	             
+| C1         27pf     	0603  	             
+| C2         27pf      	0603  	             
+| C3         100uF                    
+| C4         100uf                    
+| C5         1uF       	0603  	              
+| C6         1uF       	0603  	  
+| C15        1uF       	0603  	               
+| C7         220n   	ECQ-UAAF224K               
+| C8         220n   	ECQ-UAAF224K             
+| C9         220n       ECQ-UAAF224K             
+| C10        220n       ECQ-UAAF224K             
+| C11        220n       ECQ-UAAF224K             
+| C12        220n       ECQ-UAAF224K             
+| C13        220n       ECQ-UAAF224K             
+| C14        220n       ECQ-UAAF224K             
+| D1         GRN        3mm LED             
+| D2         RED        3mm LED             
+| F1         8A         5x20mm fuse             
+| F2         8A         5x20mm fuse             
+             
+| JP1        60Hz       0603 0-Ohm                          
+| P2         XLR-3_M    Neutrik NC3MAH             
+| P3         XLR-3_F    Neutrik NC3FAH             
+             
+            
+| R1         4.7k       0603            
+| R2         1k         0603           
+| R3         390R       0603            
+| R4         1k         0603             
+| R5         1k         0603             
+| R6         180R       0603             
+| R7         180R       0603            
+| R8         180R       0603             
+| R9         180R       0603            
+| R10        180R       0603           
+| R11        180R       0603             
+| R12        180R       0603             
+| R13        180R       0603              
+| R14        180R       0.25W            
+| R15        180R       0.25W             
+| R16        180R       0.25W             
+| R17        180R       0.25W            
+| R18        180R       0.25W            
+| R19        180R       0.25W            
+| R20        180R       0.25W             
+| R21        180R       0.25W            
+| R22        1.2k       0.25W             
+| R23        1.2k       0.25W             
+| R24        1.2k       0.25W            
+| R25        1.2k       0.25W             
+| R26        1.2k       0.25W             
+| R27        1.2k       0.25W             
+| R28        1.2k       0.25W             
+| R29        1.2k       0.25W             
+| R30        4.7k       0603             
+| R31        10k        0603            
+| RV1        10k                     
+| SW1        DIPS_10                  
+| T1         DST2-12B42               
+| TH1        10k NTC                  
+| TR1        BTA08      TO220 Triac (Isolated tab)           
+| TR2        BTA08      TO220 Triac (Isolated tab)
+| TR3        BTA08      TO220 Triac (Isolated tab)         
+| TR4        BTA08      TO220 Triac (Isolated tab)             
+| TR5        BTA08      TO220 Triac (Isolated tab)            
+| TR6        BTA08      TO220 Triac (Isolated tab)           
+| TR7        BTA08      TO220 Triac (Isolated tab)          
+| TR8        BTA08      TO220 Triac (Isolated tab)
+| U1         TS861IDT   SO-8           
+| U2         75176      SO-8         
+| U3         7805       TO-220           
+| U4         MOC3021    DIP-6 Random-phase triac opto coupler           
+| U5         MOC3021    DIP-6 Random-phase triac opto coupler           
+| U6         MOC3021    DIP-6 Random-phase triac opto coupler             
+| U7         MOC3021    DIP-6 Random-phase triac opto coupler           
+| U8         MOC3021    DIP-6 Random-phase triac opto coupler          
+| U9         MOC3021    DIP-6 Random-phase triac opto coupler             
+| U10        MOC3021    DIP-6 Random-phase triac opto coupler            
+| U11        MOC3021    DIP-6 Random-phase triac opto coupler            
+| U12        MEGA8515-A TQFP44
+| X1         8MHz       Crystal            

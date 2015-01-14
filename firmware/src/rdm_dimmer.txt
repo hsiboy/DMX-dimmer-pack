@@ -1,0 +1,17 @@
+Der RDM-Dimmer wurde von einem kommerziellen Produkt abgeleitet.
+Die Sourcen dürfen auf Nachfrage an Privatpersonen zu nicht-kommerziellen Zwecken weitergegeben werden.
+
+This rdm dimmer is based on a commercial product.
+Sources may be given to private persons for non-commercial purposes.
+
+
+Hendrik Hoelscher
+www.hoelscher-hi.de
+hoe1scher@web.de
+
+
+source details:
+GCC (WinAVR 20081124rc3)
+AVR-Studio
+lib_rdm_in      v1.1
+lib_phase_cntrl v2.5

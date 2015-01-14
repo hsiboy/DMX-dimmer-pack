@@ -1,0 +1,5 @@
+DMX dimmer pack firmware by Hendrik Hölscher.
+
+
+See info here:
+http://www.hoelscher-hi.de/hendrik/english/dimmer.htm
